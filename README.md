@@ -23,9 +23,12 @@
 11. Оценка качества модели через TimeSeriesSplit и метрику RMSE.
 
 ## Структура проекта
-
-text sberbank_case_1/ ├── main.py ├── preprocessor.py ├── train.csv ├── macro.csv └── data_dictionary.txt 
-
+sberbank_case_1/
+├── main.py
+├── preprocessor.py
+├── train.csv
+├── macro.csv
+└── data_dictionary.txt
 ## Описание файлов
 
 ### main.py
